@@ -1,0 +1,45 @@
+h1 {
+    font-family:'Lucida Sans';
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+}
+
+#intro p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lucinda Sans';
+    font-size: 50px;
+    font-style: italic;
+}
+
+#details p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+body {
+    background: lightcyan;
+  }
+
+table {
+    border-width: 2px;
+    border-color: black;
+}
+
+.time {
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+.largerimg {
+    width: 400px;
+    height: 300px;
+}
