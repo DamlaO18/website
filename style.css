@@ -1,8 +1,14 @@
+.topnav {
+    background-color: gray;
+    overflow: hidden;
+}
+
 h1 {
     font-family:'Lucida Sans';
     font-size: 100px;
     font-style: italic;
     text-align: center;
+    background-color: aquamarine;
 }
 
 #intro p {
@@ -42,4 +48,9 @@ img {
 .largerimg {
     width: 400px;
     height: 300px;
+}
+
+h3 {
+    font-family: 'Lucinda Sans';
+    font-size: 20px;
 }
